@@ -1,0 +1,1 @@
+This folder is the skeleton of python projects
